@@ -1,0 +1,14 @@
+[1mdiff --git a/config/config.env b/config/config.env[m
+[1mindex c06bf3f..d6bd470 100644[m
+[1m--- a/config/config.env[m
+[1m+++ b/config/config.env[m
+[36m@@ -1,4 +1,4 @@[m
+ PORT = 3000[m
+[31m-MONGO_URI = XXX[m
+[31m-GOOGLE_CLIENT_ID = XXX[m
+[31m-GOOGLE_CLIENT_SECRET = XXX[m
+\ No newline at end of file[m
+[32m+[m[32mMONGO_URI = mongodb+srv://smnc:smnc@cluster0.ryqex.gcp.mongodb.net/storybooks?retryWrites=true&w=majority[m
+[32m+[m[32mGOOGLE_CLIENT_ID = 848840901609-hckpqbsei8olgnn2citb9njfchiuv3qd.apps.googleusercontent.com[m
+[32m+[m[32mGOOGLE_CLIENT_SECRET = vllgLhLYE3d-WQVSWlTVhU3S[m
+\ No newline at end of file[m
